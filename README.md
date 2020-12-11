@@ -9,12 +9,22 @@
 
 ## music books
 - all by Curtis Roads
+- Stockhausen on Music by Robin Maconie
+- https://mitpress.mit.edu/books/designing-sound
+
+## composition
+- https://algocomp.blogspot.com/ (algorithmic composition)
 
 ## dsp
 - https://www.youtube.com/watch?v=cIQ9IXSUzuM
+- https://soundlab.cs.princeton.edu/learning/
+- https://ccrma.stanford.edu/~jos/filters/filters.html (digital filters)
+- http://musicandcomputersbook.com/
 
 ## msp/puredata
 - https://www.youtube.com/user/acreil
+- https://github.com/unriginal/Designing-Sound-Max-Patches (max patches showing designed sounds)
+- https://music.arts.uci.edu/dobrian/w16/music215B/examples/
 
 ## computer graphics
 - https://www.iquilezles.org
