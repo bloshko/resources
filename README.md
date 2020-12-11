@@ -5,6 +5,7 @@
 - https://www.ableton.com/en/blog/loop/
 - https://www.youtube.com/user/redbullmusicacademy
 - https://www.youtube.com/c/CIRMMT/videos
+- https://www.youtube.com/c/ElectronicBeats/videos
 
 ## music books
 - all by Curtis Roads
