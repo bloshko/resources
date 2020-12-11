@@ -13,6 +13,9 @@
 ## dsp
 - https://www.youtube.com/watch?v=cIQ9IXSUzuM
 
+## msp/puredata
+- https://www.youtube.com/user/acreil
+
 ## computer graphics
 - https://www.iquilezles.org
 - https://learnopengl.com
@@ -27,7 +30,7 @@
 ## hardware synth building
 - https://www.youtube.com/c/KristianBlåsol/videos
 - https://www.eddybergman.com/2020/05/synthesizer-build-part-30-lfo-with-sync.html
-- https://lookmumnocomputer.discourse.group/t/links-to-diy-builders/2370 (most of the link taken from this forum post)
+- https://lookmumnocomputer.discourse.group/t/links-to-diy-builders/2370 (most of the links are taken from this forum post)
 - http://musicfromouterspace.com
 - http://www.bartonmusicalcircuits.com
 - https://sdiy.info/wiki/CatGirl_Synth
