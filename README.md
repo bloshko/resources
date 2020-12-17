@@ -11,6 +11,7 @@
 - all by Curtis Roads
 - Stockhausen on Music by Robin Maconie
 - https://mitpress.mit.edu/books/designing-sound
+- Why You Hear What You Hear by Eric J. Heller
 
 ## composition
 - https://algocomp.blogspot.com/ (algorithmic composition)
