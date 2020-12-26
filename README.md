@@ -55,4 +55,7 @@
 - https://sdiy.info/wiki/CatGirl_Synth
 - https://docs.google.com/spreadsheets/d/1IUsARn39WUHJ6B5989uqHZ_YCV2HZfZM7d7RrmZ6aQ4/edit#gid=0
 
+## random
+- https://www.creativefieldrecording.com/2017/06/07/the-unconventional-microphone-buyers-guide/ 
+
 
