@@ -12,6 +12,12 @@
 - Stockhausen on Music by Robin Maconie
 - https://mitpress.mit.edu/books/designing-sound
 - Why You Hear What You Hear by Eric J. Heller
+- https://mitpress.mit.edu/books/digital-mantras
+- https://archive.org/details/thecompletedx7 dx7 manual
+- https://www.dspguide.com/ch1.htm
+- https://www.native-instruments.com/fileadmin/ni_media/downloads/pdf/VAFilterDesign_2.1.0.pdf
+- Electronic Music: Systems, techniques, and controls by Allen Strange
+- https://rhordijk.home.xs4all.nl/G2Pages/index.htm
 
 ## composition
 - https://algocomp.blogspot.com/ (algorithmic composition)
@@ -21,6 +27,8 @@
 - https://soundlab.cs.princeton.edu/learning/
 - https://ccrma.stanford.edu/~jos/filters/filters.html (digital filters)
 - http://musicandcomputersbook.com/
+- http://www.frodebeats.com/drums.html
+- https://www.soundonsound.com/series/synth-secrets
 
 ## msp/puredata
 - https://www.youtube.com/user/acreil
